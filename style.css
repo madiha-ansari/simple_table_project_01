@@ -1,0 +1,36 @@
+.main{
+background-color: red;
+padding: 150px;
+height: 2100px;
+width: 1700px;
+}
+
+.main .white{
+    padding: 50px;
+    background-color: aliceblue;
+    height: 1990px;
+}
+
+.main .white .anckor,a{
+    background-color: black;
+    color: wheat;
+    font-size: 40px;
+    height: 90px;
+    padding-top: 30px;
+    padding-left: 120px;
+    padding-right: 100px;
+}
+
+h1{
+   padding-left: 260px;
+    font-size: 90px;
+}
+
+p{
+    font-size: 60px;
+}
+
+#images{
+    height: 600px;
+    width: 1600px;
+}
