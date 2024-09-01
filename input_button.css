@@ -1,0 +1,27 @@
+ #main{
+    margin-top: 180px;
+    background-color: blue;
+    height: 250px; 
+     padding-left: 60px;
+    display: flex;
+    padding-top: 40px;
+    gap: 0.7em;
+
+}
+
+#main .input{
+    height: 180px;
+    background-color: orangered;
+    width: 700px;
+    border-radius: 90px;
+  
+}
+
+
+#main .second{
+    height: 180px;
+    width: 390px;
+    border-radius: 90px;
+    background-color:pink;
+
+} 
